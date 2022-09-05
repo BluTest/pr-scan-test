@@ -5,7 +5,7 @@
 	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
 	***********************************************/
 	
-	window.sessionStorage.setItem("Secure.AuthToken", "DU837HHFYTEYUE9S2134");
+	window.sessionStorage.setItem("Secure.AuthToken", "DD137HHFYTEYUE9S2134");
 
 	/* Modified heavily by Jeremy Druin */
 	function bookmarkSite(){
