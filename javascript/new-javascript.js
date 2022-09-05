@@ -5,7 +5,7 @@
 	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
 	***********************************************/
 	
-	window.sessionStorage.setItem("Secure.AuthToken", "DU837HHFYTEYUE9S1999");
+	window.sessionStorage.setItem("Secure.AuthToken", "DU837HHFYTEYUE9S2134");
 
 	/* Modified heavily by Jeremy Druin */
 	function bookmarkSite(){
@@ -14,10 +14,7 @@
 			var lURL = document.location;
 			var lTitle = "Mutillidae";
 				
-			if (window.sidebar){ 
-				// firefox
-				window.sidebar.addPanel(lTitle, lURL, "");
-			}else if(window.opera && window.print){ 
+			if(window.opera && window.print){ 
 				// opera
 				var elem = document.createElement('a');
 				elem.setAttribute('href',lURL);
