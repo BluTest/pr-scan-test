@@ -5,10 +5,6 @@
 	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
 	***********************************************/
 	
-    window.sessionStorage.setItem("Secure.IsUserLoggedIn2?", "No");
-    window.sessionStorage.setItem("Secure.AuthenticationToken2", "DU837HHFYTEYUE9S1934");
-    window.localStorage.setItem("Secure.CurrentStateofHTML5Storage2","Completely Insecure");
-
 
 	/* Modified heavily by Jeremy Druin */
 	function bookmarkSite(){
