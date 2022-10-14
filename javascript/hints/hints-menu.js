@@ -5,7 +5,7 @@ var sectionClosing = function(pHintsBody){
 		return true;
 	};
 };
-
+// open body
 var openBody = function(pHintsHeader, pHintsBody, pHintsImage){	
 	pHintsBody.style.display = "";
 	pHintsImage.src = "./images/up_arrow_16_16.png";
